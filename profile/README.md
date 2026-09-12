@@ -1,6 +1,7 @@
 <div align="center">
   <!-- Replace the image link below with your actual Kairax Labs logo URL -->
-  <img width="508" height="508" alt="photo_2026-06-17_16-18-02" src="https://github.com/user-attachments/assets/f5b15598-6b7b-43e7-a1e4-ce825d62359f"  alt="Kairax Labs Logo" width="150" />
+  <img width="508" height="508" alt="<img width="1024" height="1024" alt="Make_Kairax_Labs_company_logo_20260912114308" src="https://github.com/user-attachments/assets/b69ce329-f522-495d-a149-66b463ba4521" />
+"  alt="Kairax Labs Logo" width="100" />
   
   <h1>Welcome to Kairax Labs 🚀</h1>
   
